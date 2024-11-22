@@ -4,6 +4,11 @@ __pycache__/
 *$py.class
 data/
 
+test_ims/
+train_ims/
+test.csv
+train.csv
+
 # C extensions
 *.so
 
